@@ -1,5 +1,37 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Covid19-Tracker  BreakDown
+---------------------------------
+
+1)Create a wireframe
+
+2)stecth the how the app looks like(better practise when youbuild any project (draw.io)
+   
+
+3)create-react-app : package provided by facebook gives boiler plate of the react project
+
+4)structure of covid tracker
+
+5)create Header
+
+6)create info boxes
+
+7)create a table
+
+
+8)creata map
+
+9)Styling
+
+10)deploy appication in network using firebase
+
+
+##Live View
+https://covid-19-tracker-170030703.web.app
+
+  
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -7,7 +39,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open https://covid-19-tracker-170030703.web.app to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
@@ -66,3 +98,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
